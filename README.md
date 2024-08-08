@@ -1,4 +1,7 @@
-## Hello! I'm Emmanuel Fernandes.
+<div align="center">
+Hello! I'm Emmanuel Fernandes.
+</div>
+
 
 
 <div id="intro-img" align="center">
