@@ -5,7 +5,6 @@ Hello! I'm Emmanuel Fernandes.
 
 
 <div id="intro-img" align="center">
-    <a href="#"><img src="https://exbxwvxqlnbphyieygiz.supabase.co/storage/v1/object/sign/Emojis/meow_party.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJFbW9qaXMvbWVvd19wYXJ0eS5naWYiLCJpYXQiOjE3MjMwMzU0NzYsImV4cCI6MzI5OTgzNTQ3Nn0.WW7QUUPahCRRYVNvaiE77ot_UKzQTwrkXMC0zEOUAUw&t=2024-08-07T12%3A57%3A56.491Z" width=100>        </a>
   <p>Computer Science Student (UFG)</p>
 </div>
 
